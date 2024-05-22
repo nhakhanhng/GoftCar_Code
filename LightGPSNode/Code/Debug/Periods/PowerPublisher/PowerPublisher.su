@@ -1,0 +1,3 @@
+../Periods/PowerPublisher/PowerPublisher.c:17:6:PowerPublisher_Task	128	static
+../Periods/PowerPublisher/PowerPublisher.c:53:5:PowerPublisher_Init	24	static
+../Periods/PowerPublisher/PowerPublisher.c:63:5:PowerPublisher_Start	16	static

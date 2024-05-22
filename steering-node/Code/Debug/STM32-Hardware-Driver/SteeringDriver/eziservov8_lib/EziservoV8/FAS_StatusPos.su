@@ -1,0 +1,5 @@
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_StatusPos.c:4:5:FAS_GetAxisStatus	104	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_StatusPos.c:44:5:FAS_GetIOStatus	64	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_StatusPos.c:281:5:FAS_ClearPosition	104	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_StatusPos.c:322:5:FAS_GetCommandPos	120	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_StatusPos.c:366:5:FAS_GetActualPos	64	static

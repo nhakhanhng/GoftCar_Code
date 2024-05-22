@@ -1,0 +1,2 @@
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_IOControl.c:20:6:FAS_SetInputAssignMap	64	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_IOControl.c:61:6:FAS_SetOutputAssignMap	64	static

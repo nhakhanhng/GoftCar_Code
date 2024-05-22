@@ -1,0 +1,4 @@
+../STM32-Hardware-Driver/GPSHandler/GPSHandler.c:17:6:GPS_ReadThread	3
+../STM32-Hardware-Driver/GPSHandler/GPSHandler.c:41:5:GPS_Init	1
+../STM32-Hardware-Driver/GPSHandler/GPSHandler.c:51:5:GPS_Start	1
+../STM32-Hardware-Driver/GPSHandler/GPSHandler.c:58:5:GPS_GetData	1

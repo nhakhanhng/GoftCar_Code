@@ -1,0 +1,2 @@
+../STM32-Hardware-Driver/LEDSpeakerControl/LEDSpeakerControl.c:9:5:LEDSpeaker_SetLED	1
+../STM32-Hardware-Driver/LEDSpeakerControl/LEDSpeakerControl.c:27:5:LEDSpeaker_setSpeaker	1

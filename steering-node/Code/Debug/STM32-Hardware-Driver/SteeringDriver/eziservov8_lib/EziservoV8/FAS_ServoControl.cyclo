@@ -1,0 +1,4 @@
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_ServoControl.c:5:5:FAS_ServoEnable	3
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_ServoControl.c:43:5:FAS_ServoAlarmReset	3
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_ServoControl.c:90:5:FAS_StepAlarmReset	1
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_ServoControl.c:94:5:FAS_BrakeSet	1

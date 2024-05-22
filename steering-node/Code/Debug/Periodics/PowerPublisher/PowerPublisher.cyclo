@@ -1,0 +1,4 @@
+../Periodics/PowerPublisher/PowerPublisher.c:18:6:PowerPublisher_Task	2
+../Periodics/PowerPublisher/PowerPublisher.c:52:5:PowerPublisher_Init	1
+../Periodics/PowerPublisher/PowerPublisher.c:61:5:PowerPublisher_SetName	1
+../Periodics/PowerPublisher/PowerPublisher.c:69:5:PowerPublisher_Start	2

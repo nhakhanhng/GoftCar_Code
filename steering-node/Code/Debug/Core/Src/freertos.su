@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:85:6:CAN_ProcessMsg	96	static
+../Core/Src/freertos.c:114:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:120:6:CanRecv	16	static
+../Core/Src/freertos.c:131:6:DataProcessing	16	static

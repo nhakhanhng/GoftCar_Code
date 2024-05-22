@@ -1,0 +1,2 @@
+../STM32_RTOS_PeripheralDriver/SyncPrintf/SyncPrintf.c:23:7:SyncPrintf_Init	8	static
+../STM32_RTOS_PeripheralDriver/SyncPrintf/SyncPrintf.c:28:5:SyncPrintf	96	static

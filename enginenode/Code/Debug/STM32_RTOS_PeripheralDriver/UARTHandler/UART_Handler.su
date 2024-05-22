@@ -1,0 +1,8 @@
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:13:6:UART_OS_Init	16	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:22:5:UART_OS_printf	132	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:45:5:UART_OS_Transmit	32	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:62:5:UART_OS_Receive_ToIdle	32	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:96:5:UART_OS_Receive	32	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:128:6:UART_OS_RcvToIdle_CB	16	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:134:6:UART_OS_RxCplt_CB	16	static
+../STM32_RTOS_PeripheralDriver/UARTHandler/UART_Handler.c:139:6:UART_OS_TxCplt_CB	16	static

@@ -1,0 +1,9 @@
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:79:1:prv_parse_number	9
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:102:1:prv_parse_float_number	10
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:138:1:prv_parse_lat_long	1
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:155:1:prv_parse_term	44
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:351:1:prv_copy_from_tmp_memory	5
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:412:1:lwgps_init	1
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:430:1:lwgps_process	8
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:481:1:lwgps_distance_bearing	6
+../STM32-Hardware-Driver/GPSHandler/lwgps/lwgps.c:557:1:lwgps_to_speed	16

@@ -1,0 +1,15 @@
+../CANlibrary/CAN_OSI.c:13:6:CAN_Receive_Error_Handle	24	static
+../CANlibrary/CAN_OSI.c:24:10:CAN_Send_Response	56	static
+../CANlibrary/CAN_OSI.c:41:6:CAN_Receive_Response	16	static
+../CANlibrary/CAN_OSI.c:48:6:CAN_Send_Error_Handle	56	static
+../CANlibrary/CAN_OSI.c:65:6:CAN_ProcessRxBuffer	40	static
+../CANlibrary/CAN_OSI.c:103:6:CAN_ProcessFrame	32	static,ignoring_inline_asm
+../CANlibrary/CAN_OSI.c:120:9:CAN_Send_Application	24	static
+../CANlibrary/CAN_OSI.c:125:9:CAN_Send_Network_Packet	24	static,ignoring_inline_asm
+../CANlibrary/CAN_OSI.c:146:9:CAN_Send_DataLink_Separate	40	static
+../CANlibrary/CAN_OSI.c:169:9:CAN_Send_Physical_Send	64	static
+../CANlibrary/CAN_OSI.c:221:6:CAN_Recieve_Physical_FIFO0	16	static
+../CANlibrary/CAN_OSI.c:229:9:CAN_Receive_DataLink	72	static
+../CANlibrary/CAN_OSI.c:258:9:CAN_Receive_Network	40	static,ignoring_inline_asm
+../CANlibrary/CAN_OSI.c:307:9:CAN_Receive_Application	32	static,ignoring_inline_asm
+../CANlibrary/CAN_OSI.c:342:10:CAN_Config_filtering	56	static

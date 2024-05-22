@@ -1,0 +1,14 @@
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:116:5:FAS_MoveOriginSingleAxis	56	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:151:5:FAS_MoveSingleAxisAbsPos	72	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:190:5:FAS_MoveSingleAxisIncPos	120	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:238:5:FAS_MoveToLimit	72	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:283:5:FAS_MoveVelocity	72	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:322:5:FAS_PositionAbsOverride	128	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:357:5:FAS_PositionIncOverride	128	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:444:5:FAS_MoveLinearAbsPos	24	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:448:5:FAS_MoveLinearIncPos	24	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:453:5:FAS_MovePush	24	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:457:5:FAS_GetPushStatus	24	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:463:5:FAS_MoveSingleAxisAbsPosEx	352	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:503:5:FAS_MoveSingleAxisIncPosEx	72	static
+../STM32-Hardware-Driver/SteeringDriver/eziservov8_lib/EziservoV8/FAS_Motion.c:543:5:FAS_MoveVelocityEx	72	static
